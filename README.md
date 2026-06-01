@@ -106,6 +106,25 @@ Outputs a summary to stdout and saves `analysis_output.json` with all computed m
 
 ---
 
+## Dashboard Screenshots
+
+### Sentiment vs PnL
+![Sentiment vs PnL](screenshots/01_sentiment_vs_pnl.png)
+
+### Trading Behavior — Long/Short Positioning & Trade Size
+![Trading Behavior](screenshots/02_trading_behavior.png)
+
+### Timeline — Cumulative PnL vs Fear & Greed Index
+![Timeline](screenshots/03_timeline.png)
+
+### Traders — Bubble Chart & Top vs Bottom Comparison
+![Traders](screenshots/04_traders.png)
+
+### Top 15 Coins by PnL
+![Coins](screenshots/05_coins.png)
+
+---
+
 ## Tools Used
 
 - **Python** — pandas, numpy for data processing
